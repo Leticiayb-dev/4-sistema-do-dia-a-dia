@@ -9,7 +9,7 @@ public class Main {
         int escolha = -1;
         while (escolha != 0) {
 
-            System.out.println("MENU PRINCIPAL ");
+            System.out.println(" MENU PRINCIPAL ");
             System.out.println("1 - Calculadora");
             System.out.println("2 - Controlador de gastos pessoais");
             System.out.println("3 - Gasto de gasolina por dia");
